@@ -14,12 +14,22 @@
       "category": "finance",
       "screenshotURLs": [],
       "version": "1.0.0",
-      "versionDate": "2026-07-18",
-      "versionDescription": "בנייה משותפת ראשונה: תווית \"למחיקה\" בהחלקה, שיוך \"משותף\" להכנסות והוצאות, ורישום שיתוף PDF.",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-2/ClearFlow.ipa",
-      "size": 10208000,
-      "sha256": "038eca86c66f3a32092b330ad26685b7a109d0dbc31ac118f72a130d4061c977",
+      "versionDate": "2026-07-19",
+      "versionDescription": "תווית \"למחיקה\" מופיעה בתחילת ההחלקה; אפשר לבחור PDF בבורר הקבצים.",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-3/ClearFlow.ipa",
+      "size": 10208041,
+      "sha256": "5ef5fd0ecf8de204cef84d0fdcb4aa859193e589d59f5c6dca35c1b1f3bf5862",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "3",
+          "date": "2026-07-19",
+          "localizedDescription": "תווית \"למחיקה\" מופיעה בתחילת ההחלקה; אפשר לבחור PDF בבורר הקבצים.",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-3/ClearFlow.ipa",
+          "size": 10208041,
+          "sha256": "5ef5fd0ecf8de204cef84d0fdcb4aa859193e589d59f5c6dca35c1b1f3bf5862",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "2",
