@@ -84,6 +84,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.7",
+          "buildVersion": "7",
+          "date": "2026-07-19",
+          "localizedDescription": "הסבר מאיפה מורידים כל סוג דוח + הפרדת בנק/אשראי",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10584681,
+          "sha256": "0e496568dc72e3c4cea9f2b4a435694d84c704b150c445bf5f25d0612e8b2a48",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.6",
           "buildVersion": "6",
           "date": "2026-07-19",
@@ -122,24 +132,14 @@
           "size": 10478013,
           "sha256": "6a83980997bb6b58cc76461f9cc33f55971b97301e493aa68ccac59e2b91a848",
           "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "2",
-          "date": "2026-07-18",
-          "localizedDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
-          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-          "size": 10478016,
-          "sha256": "fefc1915b8a03aaef3de7e6b24c126c5f0037b27c21cdefdd62e7ef3becc61c6",
-          "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.6",
+      "version": "1.0.7",
       "versionDate": "2026-07-19",
-      "versionDescription": "ספריית מיפויים אנונימית + תיקוני אבטחה (חיפוש קהילתי, סגירת פרצת הצטרפות לבית אב)",
+      "versionDescription": "הסבר מאיפה מורידים כל סוג דוח + הפרדת בנק/אשראי",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10553562,
-      "sha256": "716cbbaeb73dd918e3318d3c81554d341ae99b11ad4cecc943c11ff384c317d8"
+      "size": 10584681,
+      "sha256": "0e496568dc72e3c4cea9f2b4a435694d84c704b150c445bf5f25d0612e8b2a48"
     }
   ]
 }
