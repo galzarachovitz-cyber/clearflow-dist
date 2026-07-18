@@ -1,0 +1,36 @@
+{
+  "name": "ClearFlow",
+  "identifier": "com.galzarachovitz.clearflow.source",
+  "sourceURL": "https://raw.githubusercontent.com/galzarachovitz-cyber/clearflow-dist/main/apps.json",
+  "apps": [
+    {
+      "name": "ClearFlow",
+      "bundleIdentifier": "com.galzarachovitz.clearflow",
+      "developerName": "Gal Zarachovitz",
+      "subtitle": "ניהול תקציב משפחתי",
+      "localizedDescription": "ClearFlow — אפליקציית ניהול תקציב משפחתי בעברית. מעקב הכנסות והוצאות, ייבוא דפי חשבון, ותצוגה לפי בן משפחה או משותף.",
+      "iconURL": "https://raw.githubusercontent.com/galzarachovitz-cyber/clearflow-dist/main/icon.png",
+      "tintColor": "1E8E5A",
+      "category": "finance",
+      "screenshotURLs": [],
+      "version": "1.0.0",
+      "versionDate": "2026-07-18",
+      "versionDescription": "בנייה משותפת ראשונה: תווית \"למחיקה\" בהחלקה, שיוך \"משותף\" להכנסות והוצאות, ורישום שיתוף PDF.",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-2/ClearFlow.ipa",
+      "size": 10208000,
+      "sha256": "038eca86c66f3a32092b330ad26685b7a109d0dbc31ac118f72a130d4061c977",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-07-18",
+          "localizedDescription": "בנייה משותפת ראשונה: תווית \"למחיקה\" בהחלקה, שיוך \"משותף\" להכנסות והוצאות, ורישום שיתוף PDF.",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-2/ClearFlow.ipa",
+          "size": 10208000,
+          "sha256": "038eca86c66f3a32092b330ad26685b7a109d0dbc31ac118f72a130d4061c977",
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ]
+}
