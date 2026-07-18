@@ -85,6 +85,16 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-07-18",
+          "localizedDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10478016,
+          "sha256": "fefc1915b8a03aaef3de7e6b24c126c5f0037b27c21cdefdd62e7ef3becc61c6",
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "1",
           "date": "2026-07-18",
           "localizedDescription": "בנייה ראשונה של ערוץ ה-Dev — זהה לפרוד build 6, מול DB סטייג'ינג",
@@ -96,10 +106,10 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-07-18",
-      "versionDescription": "בנייה ראשונה של ערוץ ה-Dev — זהה לפרוד build 6, מול DB סטייג'ינג",
+      "versionDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10379835,
-      "sha256": "f2eda84178eb6e97d1bc5d1dc3ef64b69437a719d6d575f7a8b23e6f608d62d6"
+      "size": 10478016,
+      "sha256": "fefc1915b8a03aaef3de7e6b24c126c5f0037b27c21cdefdd62e7ef3becc61c6"
     }
   ]
 }
