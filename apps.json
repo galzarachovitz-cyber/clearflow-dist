@@ -84,6 +84,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.4",
+          "buildVersion": "4",
+          "date": "2026-07-18",
+          "localizedDescription": "תיקון חצים, מחיקת חשבון, מדיניות פרטיות ותנאים, שכחתי סיסמה",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10512275,
+          "sha256": "c03108d16c3253636f7a5c036bf05187dc052a1454df8ef57f786b032130a4ee",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.3",
           "buildVersion": "3",
           "date": "2026-07-18",
@@ -114,12 +124,12 @@
           "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.3",
+      "version": "1.0.4",
       "versionDate": "2026-07-18",
-      "versionDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
+      "versionDescription": "תיקון חצים, מחיקת חשבון, מדיניות פרטיות ותנאים, שכחתי סיסמה",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10478013,
-      "sha256": "6a83980997bb6b58cc76461f9cc33f55971b97301e493aa68ccac59e2b91a848"
+      "size": 10512275,
+      "sha256": "c03108d16c3253636f7a5c036bf05187dc052a1454df8ef57f786b032130a4ee"
     }
   ]
 }
