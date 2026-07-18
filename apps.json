@@ -15,11 +15,21 @@
       "screenshotURLs": [],
       "version": "1.0.0",
       "versionDate": "2026-07-19",
-      "versionDescription": "תיקון ייבוא PDF: תנועות זהות באותו יום (למשל שני תשלומי מע\"מ) כבר לא מתנגשות, וייבוא אטומי.",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-5/ClearFlow.ipa",
-      "size": 10219302,
-      "sha256": "a1420fa153028df5efc24821c9d7edd15af97a0582a537d59e4d10c9e85613e9",
+      "versionDescription": "עבודה במצב לא-מקוון (הנתונים נשמרים ומסתנכרנים כשהחיבור חוזר), מסך פירוט חיוב כרטיס אשראי, מעקב חסכונות ופנסיה, תמיכה מלאה באנגלית, ומראה חדש וצבעוני יותר.",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-6/ClearFlow.ipa",
+      "size": 10380307,
+      "sha256": "4e23bd8aded2356f9d26d6fbc1350d28d813ec9e667aed53d12450058e7d8102",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "6",
+          "date": "2026-07-19",
+          "localizedDescription": "עבודה במצב לא-מקוון (הנתונים נשמרים ומסתנכרנים כשהחיבור חוזר), מסך פירוט חיוב כרטיס אשראי, מעקב חסכונות ופנסיה, תמיכה מלאה באנגלית, ומראה חדש וצבעוני יותר.",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-6/ClearFlow.ipa",
+          "size": 10380307,
+          "sha256": "4e23bd8aded2356f9d26d6fbc1350d28d813ec9e667aed53d12450058e7d8102",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "5",
