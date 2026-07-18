@@ -78,11 +78,21 @@
       "developerName": "Gal Zarachovitz",
       "subtitle": "ערוץ פיתוח — DB נפרד (staging)",
       "localizedDescription": "גרסת הפיתוח של ClearFlow. מחוברת לבסיס נתונים נפרד (staging) לבדיקות לפני שחרור לגרסה היציבה.",
-      "iconURL": "https://raw.githubusercontent.com/galzarachovitz-cyber/clearflow-dist/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/galzarachovitz-cyber/clearflow-dist/main/icon_dev.png",
       "tintColor": "1E8E5A",
       "category": "finance",
       "screenshotURLs": [],
       "versions": [
+        {
+          "version": "1.0.3",
+          "buildVersion": "3",
+          "date": "2026-07-18",
+          "localizedDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10478013,
+          "sha256": "6a83980997bb6b58cc76461f9cc33f55971b97301e493aa68ccac59e2b91a848",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "2",
@@ -104,12 +114,12 @@
           "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.0",
+      "version": "1.0.3",
       "versionDate": "2026-07-18",
       "versionDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10478016,
-      "sha256": "fefc1915b8a03aaef3de7e6b24c126c5f0037b27c21cdefdd62e7ef3becc61c6"
+      "size": 10478013,
+      "sha256": "6a83980997bb6b58cc76461f9cc33f55971b97301e493aa68ccac59e2b91a848"
     }
   ]
 }
