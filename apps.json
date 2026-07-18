@@ -84,6 +84,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.5",
+          "buildVersion": "5",
+          "date": "2026-07-19",
+          "localizedDescription": "ייבוא מכל בנק: אשף מיפוי עמודות + תיקוני מסחור",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10533429,
+          "sha256": "bea424dd766dec37fd7d950ee35956e825b5083a45d4c88488e4ae5510a85d22",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.4",
           "buildVersion": "4",
           "date": "2026-07-18",
@@ -124,12 +134,12 @@
           "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.4",
-      "versionDate": "2026-07-18",
-      "versionDescription": "תיקון חצים, מחיקת חשבון, מדיניות פרטיות ותנאים, שכחתי סיסמה",
+      "version": "1.0.5",
+      "versionDate": "2026-07-19",
+      "versionDescription": "ייבוא מכל בנק: אשף מיפוי עמודות + תיקוני מסחור",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10512275,
-      "sha256": "c03108d16c3253636f7a5c036bf05187dc052a1454df8ef57f786b032130a4ee"
+      "size": 10533429,
+      "sha256": "bea424dd766dec37fd7d950ee35956e825b5083a45d4c88488e4ae5510a85d22"
     }
   ]
 }
