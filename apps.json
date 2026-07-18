@@ -15,11 +15,21 @@
       "screenshotURLs": [],
       "version": "1.0.0",
       "versionDate": "2026-07-19",
-      "versionDescription": "ייבוא דפי חשבון PDF מבנק הפועלים — בוחרים את קובץ ה־PDF במסך הייבוא והוא מתפרסר אוטומטית לתנועות.",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-4/ClearFlow.ipa",
-      "size": 10215170,
-      "sha256": "c086f06ed94728900e1b0c0a28440e84ea7ed96d96666e00cc27b220e0fe3526",
+      "versionDescription": "תיקון ייבוא PDF: תנועות זהות באותו יום (למשל שני תשלומי מע\"מ) כבר לא מתנגשות, וייבוא אטומי.",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-5/ClearFlow.ipa",
+      "size": 10219302,
+      "sha256": "a1420fa153028df5efc24821c9d7edd15af97a0582a537d59e4d10c9e85613e9",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "5",
+          "date": "2026-07-19",
+          "localizedDescription": "תיקון ייבוא PDF: תנועות זהות באותו יום (למשל שני תשלומי מע\"מ) כבר לא מתנגשות, וייבוא אטומי.",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-5/ClearFlow.ipa",
+          "size": 10219302,
+          "sha256": "a1420fa153028df5efc24821c9d7edd15af97a0582a537d59e4d10c9e85613e9",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "4",
