@@ -84,6 +84,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.9",
+          "buildVersion": "9",
+          "date": "2026-07-19",
+          "localizedDescription": "ייבוא חוזר מעדכן יתרה גם כשכל התנועות כפולות",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10588712,
+          "sha256": "6da93fb469a7b0a0e8e63b469b1b8b4f30858d535b853aeff2d3a494e5178ba3",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.8",
           "buildVersion": "8",
           "date": "2026-07-19",
@@ -122,24 +132,14 @@
           "size": 10533429,
           "sha256": "bea424dd766dec37fd7d950ee35956e825b5083a45d4c88488e4ae5510a85d22",
           "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.4",
-          "buildVersion": "4",
-          "date": "2026-07-18",
-          "localizedDescription": "תיקון חצים, מחיקת חשבון, מדיניות פרטיות ותנאים, שכחתי סיסמה",
-          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-          "size": 10512275,
-          "sha256": "c03108d16c3253636f7a5c036bf05187dc052a1454df8ef57f786b032130a4ee",
-          "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.8",
+      "version": "1.0.9",
       "versionDate": "2026-07-19",
-      "versionDescription": "תיקון עדכון יתרה מדוח + זיהוי אוטומטי של סוג הדוח",
+      "versionDescription": "ייבוא חוזר מעדכן יתרה גם כשכל התנועות כפולות",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10587113,
-      "sha256": "6a53104c9514843f2b30f412116f01ca63e988397293dd774859e5c727a65db2"
+      "size": 10588712,
+      "sha256": "6da93fb469a7b0a0e8e63b469b1b8b4f30858d535b853aeff2d3a494e5178ba3"
     }
   ]
 }
