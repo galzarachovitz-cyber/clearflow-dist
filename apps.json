@@ -84,6 +84,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.10",
+          "buildVersion": "10",
+          "date": "2026-07-19",
+          "localizedDescription": "היתרה מהדוח דורסת יתרה ידנית — כולל תאריך 'נכון ל' מהדוח",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10588277,
+          "sha256": "5c59bf2d1447c148438599994cfc4d29f98c3bb75315dfd9b1bcce1c2274dfd1",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.9",
           "buildVersion": "9",
           "date": "2026-07-19",
@@ -122,24 +132,14 @@
           "size": 10553562,
           "sha256": "716cbbaeb73dd918e3318d3c81554d341ae99b11ad4cecc943c11ff384c317d8",
           "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.5",
-          "buildVersion": "5",
-          "date": "2026-07-19",
-          "localizedDescription": "ייבוא מכל בנק: אשף מיפוי עמודות + תיקוני מסחור",
-          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-          "size": 10533429,
-          "sha256": "bea424dd766dec37fd7d950ee35956e825b5083a45d4c88488e4ae5510a85d22",
-          "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.9",
+      "version": "1.0.10",
       "versionDate": "2026-07-19",
-      "versionDescription": "ייבוא חוזר מעדכן יתרה גם כשכל התנועות כפולות",
+      "versionDescription": "היתרה מהדוח דורסת יתרה ידנית — כולל תאריך 'נכון ל' מהדוח",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10588712,
-      "sha256": "6da93fb469a7b0a0e8e63b469b1b8b4f30858d535b853aeff2d3a494e5178ba3"
+      "size": 10588277,
+      "sha256": "5c59bf2d1447c148438599994cfc4d29f98c3bb75315dfd9b1bcce1c2274dfd1"
     }
   ]
 }
