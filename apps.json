@@ -84,6 +84,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.0.8",
+          "buildVersion": "8",
+          "date": "2026-07-19",
+          "localizedDescription": "תיקון עדכון יתרה מדוח + זיהוי אוטומטי של סוג הדוח",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
+          "size": 10587113,
+          "sha256": "6a53104c9514843f2b30f412116f01ca63e988397293dd774859e5c727a65db2",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.7",
           "buildVersion": "7",
           "date": "2026-07-19",
@@ -122,24 +132,14 @@
           "size": 10512275,
           "sha256": "c03108d16c3253636f7a5c036bf05187dc052a1454df8ef57f786b032130a4ee",
           "minOSVersion": "16.0"
-        },
-        {
-          "version": "1.0.3",
-          "buildVersion": "3",
-          "date": "2026-07-18",
-          "localizedDescription": "סגירת חודש, שווי משפחתי, תובנות, קיצורי מסך-בית + אייקון DEV",
-          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-          "size": 10478013,
-          "sha256": "6a83980997bb6b58cc76461f9cc33f55971b97301e493aa68ccac59e2b91a848",
-          "minOSVersion": "16.0"
         }
       ],
-      "version": "1.0.7",
+      "version": "1.0.8",
       "versionDate": "2026-07-19",
-      "versionDescription": "הסבר מאיפה מורידים כל סוג דוח + הפרדת בנק/אשראי",
+      "versionDescription": "תיקון עדכון יתרה מדוח + זיהוי אוטומטי של סוג הדוח",
       "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/dev/ClearFlow-dev.ipa",
-      "size": 10584681,
-      "sha256": "0e496568dc72e3c4cea9f2b4a435694d84c704b150c445bf5f25d0612e8b2a48"
+      "size": 10587113,
+      "sha256": "6a53104c9514843f2b30f412116f01ca63e988397293dd774859e5c727a65db2"
     }
   ]
 }
