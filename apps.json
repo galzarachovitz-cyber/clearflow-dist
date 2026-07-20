@@ -15,11 +15,21 @@
       "screenshotURLs": [],
       "version": "1.0.0",
       "versionDate": "2026-07-20",
-      "versionDescription": "Bump to 1.0.0+7 for the first production release from main",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-7/ClearFlow.ipa",
-      "size": 10452403,
-      "sha256": "da4113774af247d1b952540050cde4482044e6a7ae2c7a65763433db4b66092a",
+      "versionDescription": "Bump to 1.0.0+8",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-8/ClearFlow.ipa",
+      "size": 10469354,
+      "sha256": "84f30be2bd37bf0166f60d126e00f964311781ec57ecb83220c1cab0146196e7",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "8",
+          "date": "2026-07-20",
+          "localizedDescription": "Bump to 1.0.0+8",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-8/ClearFlow.ipa",
+          "size": 10469354,
+          "sha256": "84f30be2bd37bf0166f60d126e00f964311781ec57ecb83220c1cab0146196e7",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "7",
