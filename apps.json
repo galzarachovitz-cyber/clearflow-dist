@@ -14,12 +14,22 @@
       "category": "finance",
       "screenshotURLs": [],
       "version": "1.0.0",
-      "versionDate": "2026-07-19",
-      "versionDescription": "עבודה במצב לא-מקוון (הנתונים נשמרים ומסתנכרנים כשהחיבור חוזר), מסך פירוט חיוב כרטיס אשראי, מעקב חסכונות ופנסיה, תמיכה מלאה באנגלית, ומראה חדש וצבעוני יותר.",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-6/ClearFlow.ipa",
-      "size": 10380307,
-      "sha256": "4e23bd8aded2356f9d26d6fbc1350d28d813ec9e667aed53d12450058e7d8102",
+      "versionDate": "2026-07-20",
+      "versionDescription": "Bump to 1.0.0+7 for the first production release from main",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-7/ClearFlow.ipa",
+      "size": 10452403,
+      "sha256": "da4113774af247d1b952540050cde4482044e6a7ae2c7a65763433db4b66092a",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "7",
+          "date": "2026-07-20",
+          "localizedDescription": "Bump to 1.0.0+7 for the first production release from main",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-7/ClearFlow.ipa",
+          "size": 10452403,
+          "sha256": "da4113774af247d1b952540050cde4482044e6a7ae2c7a65763433db4b66092a",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "6",
