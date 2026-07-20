@@ -15,11 +15,21 @@
       "screenshotURLs": [],
       "version": "1.0.0",
       "versionDate": "2026-07-20",
-      "versionDescription": "Bump to 1.0.0+8",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-8/ClearFlow.ipa",
-      "size": 10469354,
-      "sha256": "84f30be2bd37bf0166f60d126e00f964311781ec57ecb83220c1cab0146196e7",
+      "versionDescription": "Routing when both partners hold the same card brand",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-9/ClearFlow.ipa",
+      "size": 10472187,
+      "sha256": "23936ebf260548be4ec86d7341617efb5e43dbcaf745f1fdfa6e85e5d7a4ca28",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "9",
+          "date": "2026-07-20",
+          "localizedDescription": "Routing when both partners hold the same card brand",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-9/ClearFlow.ipa",
+          "size": 10472187,
+          "sha256": "23936ebf260548be4ec86d7341617efb5e43dbcaf745f1fdfa6e85e5d7a4ca28",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "8",
