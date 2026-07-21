@@ -15,11 +15,21 @@
       "screenshotURLs": [],
       "version": "1.0.0",
       "versionDate": "2026-07-21",
-      "versionDescription": "Import: add a visible \"Savings / fund\" option",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-12/ClearFlow.ipa",
-      "size": 10520767,
-      "sha256": "0aa7a1980a723d37e652b26f49b2baa893e2e555fdf02168dc1e2192c84c7412",
+      "versionDescription": "Download centre: quick links to providers' download pages",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-13/ClearFlow.ipa",
+      "size": 10525128,
+      "sha256": "fef0575aa35d47371222f463a37c217524a7efbcd2bc06a7faa209daecee2967",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "13",
+          "date": "2026-07-21",
+          "localizedDescription": "Download centre: quick links to providers' download pages",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-13/ClearFlow.ipa",
+          "size": 10525128,
+          "sha256": "fef0575aa35d47371222f463a37c217524a7efbcd2bc06a7faa209daecee2967",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "12",
