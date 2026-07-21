@@ -14,12 +14,22 @@
       "category": "finance",
       "screenshotURLs": [],
       "version": "1.0.0",
-      "versionDate": "2026-07-20",
-      "versionDescription": "Routing when both partners hold the same card brand",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-9/ClearFlow.ipa",
-      "size": 10472187,
-      "sha256": "23936ebf260548be4ec86d7341617efb5e43dbcaf745f1fdfa6e85e5d7a4ca28",
+      "versionDate": "2026-07-21",
+      "versionDescription": "Document prod DB-password file for supabase db push",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-10/ClearFlow.ipa",
+      "size": 10515814,
+      "sha256": "e86d6901461472bfa1d0cb74dd190f31917688888ca07ffbc902ff74f51cd180",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "10",
+          "date": "2026-07-21",
+          "localizedDescription": "Document prod DB-password file for supabase db push",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-10/ClearFlow.ipa",
+          "size": 10515814,
+          "sha256": "e86d6901461472bfa1d0cb74dd190f31917688888ca07ffbc902ff74f51cd180",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "9",
