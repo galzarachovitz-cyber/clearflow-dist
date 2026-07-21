@@ -15,11 +15,21 @@
       "screenshotURLs": [],
       "version": "1.0.0",
       "versionDate": "2026-07-21",
-      "versionDescription": "Transfer to savings: pick or create a savings account inline",
-      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-11/ClearFlow.ipa",
-      "size": 10517232,
-      "sha256": "a6dc2c7e4984aca244f40d69c0275b29f826cd961846fa0f2c4dcc31d394cf1e",
+      "versionDescription": "Import: add a visible \"Savings / fund\" option",
+      "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-12/ClearFlow.ipa",
+      "size": 10520767,
+      "sha256": "0aa7a1980a723d37e652b26f49b2baa893e2e555fdf02168dc1e2192c84c7412",
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "12",
+          "date": "2026-07-21",
+          "localizedDescription": "Import: add a visible \"Savings / fund\" option",
+          "downloadURL": "https://github.com/galzarachovitz-cyber/clearflow-dist/releases/download/v1.0.0-12/ClearFlow.ipa",
+          "size": 10520767,
+          "sha256": "0aa7a1980a723d37e652b26f49b2baa893e2e555fdf02168dc1e2192c84c7412",
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.0",
           "buildVersion": "11",
